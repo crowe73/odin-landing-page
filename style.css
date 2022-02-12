@@ -77,3 +77,60 @@ img
     width: 320px;
     height: 240;
 }
+
+.info-body
+{
+    font-family: roboto, sans-serif;
+    text-align: center;
+}
+
+.title
+{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    margin-bottom: 32px;
+    margin-top: 32px;
+}
+
+.info-container
+{
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.info
+{
+    max-width: 320px;
+}
+
+.img-1
+{
+    width: 320px;
+    height: 211px;
+}
+
+.img-2
+{
+    width: 320px;
+    height: 213px;
+}
+
+.img-3
+{
+    width: 320px;
+    height: 164px;
+}
+
+.img-4
+{
+    width: 320px;
+    height: 213px;
+}
+
+.text
+{
+    font-size: 18px;
+    color: #1f2937;
+}
