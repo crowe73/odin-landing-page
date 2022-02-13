@@ -218,3 +218,15 @@ img
     padding: 4px 20px 4px 20px;
     border-radius: 5px;
 }
+
+/* Footer section */
+.footer
+{
+    font-family: roboto, sans-serif;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
+    padding: 24px;
+    display: flex;
+    justify-content: center;
+}

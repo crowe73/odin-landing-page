@@ -9,3 +9,5 @@ Development log
 02/12/2022 - Added quote section.
 
 02/12/2022 - Added call to action section.
+
+02/12/2022 - Added footer section.
