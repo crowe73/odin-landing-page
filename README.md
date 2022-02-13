@@ -7,3 +7,5 @@ Development log
 02/12/2022 - Added information section.
 
 02/12/2022 - Added quote section.
+
+02/12/2022 - Added call to action section.
