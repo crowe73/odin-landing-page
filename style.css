@@ -1,3 +1,4 @@
+/* Hero Section */
 .hero
 {
     background-color: #1f2937;
@@ -78,6 +79,7 @@ img
     height: 240;
 }
 
+/* Information Section */
 .info-body
 {
     font-family: roboto, sans-serif;
@@ -133,4 +135,37 @@ img
 {
     font-size: 18px;
     color: #1f2937;
+}
+
+/* Quote Section */
+.quote-body
+{
+    font-family: roboto, sans-serif;
+    background-color: #e5e7eb;
+    height:400px;
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-container
+{
+    width: 830px;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.quote
+{
+    font-size: 36px;
+    color: #1f2937;
+}
+
+.author
+{
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: auto;
 }
